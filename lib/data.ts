@@ -111,6 +111,7 @@ export const skillsData = [
   "AWS",
   "Data Analytics",
   "Machine Learning",
+  "NLP",
   "NumPy",
   "Pandas",
   "Scikit-Learn",
