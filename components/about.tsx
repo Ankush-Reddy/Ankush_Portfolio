@@ -19,9 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I'm a passionate Data Engineer with a Master’s in Computer Science from Indiana University Bloomington.{" "}
-        <span className="font-medium">Software Engineer </span> and{" "}
-        <span className="font-medium">Full Stack Developer</span>, currently pursuing my Master's in <span className="font-medium">Computer Science</span> at Indiana University Bloomington.
+        I'm a passionate <span className="font-medium">Data Engineer</span> with a Master’s in <span className="font-medium">Computer Science</span> from Indiana University Bloomington.{" "}
         With two years of professional experience and a strong technical foundation, complemented by a strong academic foundation in object-oriented programming, data structures, algorithms and Data Engineering. I’m passionate about building reliable, scalable data systems that help organizations turn raw data into meaningful insights.
         
       </p> 
