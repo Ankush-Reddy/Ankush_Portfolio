@@ -27,9 +27,8 @@ export default function About() {
       <p className="mb-3"> 
       My interests lie at the intersection of Data Engineering, Data Science, and emerging technologies like Machine Learning, AI, and Natural Language Processing. I have hands-on experience building robust data pipelines using{" "}
         <span className="font-medium">
-        Python, SQL, and PySpark
-        </span>
-        and have worked extensively with <span className="font-medium">Apache Airflow</span> for workflow orchestration. I’ve leveraged big data frameworks like <span className="font-medium">Apache Spark and Hadoop</span> for distributed data processing and deployed scalable solutions on <span className="font-medium">AWS</span> services such as <span className="font-medium">S3, Redshift, EMR, IAM and Lambda.</span> 
+        Python, SQL, and PySpark </span>
+        and have worked extensively with <span className="font-medium">Apache Airflow</span> for workflow orchestration. I’ve leveraged big data frameworks like <span className="font-medium">Apache Spark and Hadoop</span> for distributed data processing and deployed scalable solutions on <span className="font-medium">AWS</span> services such as <span className="font-medium">S3, Redshift, EMR, IAM and Lambda. </span> 
         In addition to strong  <span className="font-medium">ETL/ELT</span> skills and experience in data modeling, I focus on optimizing real-time and batch data workflows for performance and reliability. I also enjoy translating data into clear business insights through visualization tools like Power BI and Tableau.{" "}
       </p>
 
