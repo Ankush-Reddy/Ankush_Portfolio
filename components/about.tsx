@@ -19,25 +19,22 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I'm a passionate <span className="font-medium">Data Engineer</span> with a Master’s in <span className="font-medium">Computer Science</span> from Indiana University Bloomington.{" "}
-        With two years of professional experience and a strong technical foundation, complemented by a strong academic foundation in object-oriented programming, data structures, algorithms and Data Engineering. I’m passionate about building reliable, scalable data systems that help organizations turn raw data into meaningful insights.
+        I'm a passionate <span className="font-medium">Data Engineer</span> with a Master’s in <span className="font-medium">Computer Science</span> from Indiana University Bloomington and two years of professional experience.{" "}
+        My journey has been shaped by a strong academic foundation in object-oriented programming, data structures, algorithms, and data engineering principles, combined with real-world experience in designing scalable data systems that turn raw information into valuable insights.
         
       </p> 
 
       <p className="mb-3"> 
-        My journey in tech spans a wide array of interests, including Data Engineering, Data Science, and cutting-edge fields like ML, AI and NLP. With hands-on experience in technologies like{" "}
+      My interests lie at the intersection of Data Engineering, Data Science, and emerging technologies like Machine Learning, AI, and Natural Language Processing. I have hands-on experience building robust data pipelines using{" "}
         <span className="font-medium">
         Python, SQL, and PySpark
         </span>
-        to build robust data pipelines and transform large-scale datasets. My experience spans across orchestrating workflows using <span className="font-medium">Apache Airflow</span>, leveraging big data frameworks such as <span className="font-medium">Apache Spark and Hadoop</span> for distributed processing, and deploying scalable data solutions on <span className="font-medium">AWS</span> services including <span className="font-medium">S3, Redshift, EMR, IAM and Lambda.</span> I’m also proficient in <span className="font-medium">data modeling, ETL/ELT processes,</span> and optimizing performance for real-time and batch data workflows.
-        My background also includes experience in <span className="font-medium">Machine Learning</span> and <span className="font-medium">Natural Language Processing</span>, enabling me to integrate intelligent analytics into data solutions. On the visualization side, I use tools like <span className="font-medium">Power BI, Tableau </span> to create clear, impactful dashboards that support informed decision-making.
-        . I enjoy building scalable, efficient solutions for complex problems. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a Data Engineer.
+        and have worked extensively with <span className="font-medium">Apache Airflow</span> for workflow orchestration. I’ve leveraged big data frameworks like <span className="font-medium">Apache Spark and Hadoop</span> for distributed data processing and deployed scalable solutions on <span className="font-medium">AWS</span> services such as <span className="font-medium">S3, Redshift, EMR, IAM and Lambda.</span> 
+        In addition to strong  <span className="font-medium">ETL/ELT</span> skills and experience in data modeling, I focus on optimizing real-time and batch data workflows for performance and reliability. I also enjoy translating data into clear business insights through visualization tools like Power BI and Tableau.{" "}
       </p>
 
       <p>
-      What drives me is the challenge of solving complex data problems and the opportunity to collaborate with teams to build systems that scale. I’m currently looking for a full-time role where I can continue growing as a Data Engineer and contribute to innovative, data-centric solutions.
+      What motivates me is the challenge of solving complex data problems and collaborating with others to build systems that scale and make an impact. I'm currently seeking a full-time opportunity where I can continue growing as a Data Engineer and contribute to innovative, data-driven solutions.
       </p>
 
       <p>
