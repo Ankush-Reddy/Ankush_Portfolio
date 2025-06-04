@@ -18,13 +18,13 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
+      <p className="mb-3" style={{ textAlign: "justify" }}>
         I'm a passionate <span className="font-medium">Data Engineer</span> with a Master’s in <span className="font-medium">Computer Science</span> from Indiana University Bloomington and two years of professional experience.{" "}
         My journey has been shaped by a strong academic foundation in object-oriented programming, data structures, algorithms, and data engineering principles, combined with real-world experience in designing scalable data systems that turn raw information into valuable insights.
         
       </p> 
 
-      <p className="mb-3"> 
+      <p className="mb-3" style={{ textAlign: "justify" }}> 
       My interests lie at the intersection of Data Engineering, Data Science, and emerging technologies like Machine Learning, AI, and Natural Language Processing. I have hands-on experience building robust data pipelines using{" "}
         <span className="font-medium">
         Python, SQL, and PySpark </span>
@@ -32,11 +32,11 @@ export default function About() {
         In addition to strong  <span className="font-medium">ETL/ELT</span> skills and experience in data modeling, I focus on optimizing real-time and batch data workflows for performance and reliability. I also enjoy translating data into clear business insights through visualization tools like Power BI and Tableau.{" "}
       </p>
 
-      <p>
+      <p className="mb-3" style={{ textAlign: "justify" }}>
       What motivates me is the challenge of solving complex data problems and collaborating with others to build systems that scale and make an impact. I'm currently seeking a full-time opportunity where I can continue growing as a Data Engineer and contribute to innovative, data-driven solutions.
       </p>
 
-      <p>
+      <p className="mb-3" style={{ textAlign: "justify" }}>
       Outside of work, I enjoy watching cricket and keeping up with the latest advancements in AI, ML, and data engineering.
       </p>
     </motion.section>
