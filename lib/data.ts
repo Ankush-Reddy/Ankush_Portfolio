@@ -37,28 +37,28 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "NatWest Group - Software Engineer",
+    title: "NatWest Group - Data Engineer",
     location: "Chennai, India",
     description: [
-      "Led the seamless migration of the economic capital application from SAS to the AWS cloud platform within the Finance and Risk Solutions Business Unit’s Economic Capital team.",
-      "Developed the EC application using Python, PySpark, and Airflow, enhancing financial stability calculations.",
-      "Achieved a 30% increase in platform performance by replicating full SAS functionality on AWS.",
-      "Ensured seamless system access for 20,000+ employees, maintaining operational continuity.",
+      "Migrated financial application from SAS to AWS, enabling scalable pipelines and boosting performance by 30%.",
+      "Built ETL workflows with Python, PySpark, and Airflow to streamline financial data processing.",
+      "Enabled system accessibility for 20,000+ users while integrating data governance and quality practices.",
       "Integrated advanced big data technologies, improving data management workflows.",
-      "Collaborated with cross-functional teams to deploy new features, resulting in enhanced system reliability.",
+      "Collaborated across teams to deploy analytics features, improving operational risk evaluation.",
+      "Implemented data quality checks to detect and fix integrity issues in cloud pipelines.",
     ],
     icon: React.createElement(FaBriefcase),
     date: "July 2022 - July 2023",
   },
   {
-    title: "Shiash Info Solutions - Developer Intern",
+    title: "Shiash Info Solutions PVT.LTD - Data Engineer",
     location: "Chennai, India",
     description: [
       "Engineered a cutting-edge application leveraging NLP and ML to detect emotions and extract named entities.",
-      "Optimized system performance to process 1,000+ inputs per second, enhancing data analysis capabilities",
       "Engineered an NER model that reduced resume screening time by 50%, increasing HR efficiency by 80%",
-      "Leveraged Emotion Detection via NLP to analyze user-generated data, achieving an accuracy rate of 85 percent.",
-      "Primarily derived insights from text sources like user comments and occasionally from voice inputs, potentially boosting decision-making accuracy by up to 25 percent.",
+      "Utilized Emotion Detection with NLP to analyze user-generated data, achieving an accuracy rate of 85 percent",
+      "Built and validated structured datasets from unstructured sources, improving accuracy for NLP-based insights.",
+      "Delivered structured reports and dashboards using Power BI to monitor model results and stakeholder KPIs.",
     ],
     icon: React.createElement(FaBriefcase),
     date: "Jan 2022 - June 2022",
@@ -81,7 +81,7 @@ export const projectsData = [
     imageUrl: bankofapisImg,
   },
   {
-    title: "Predicting Mental Health",
+    title: "Predicting Predictive Analytics for Mental Health",
     description:
       "Employed various Python machine learning classification algorithms to analyze and predict mental health disorders in the tech sector, achieving a 92 percent accuracy rate. Executed a comprehensive project covering data pre-processing, normalization, visualization, and deployment of a wide range of ML techniques, resulting in a 95 % precision rate.",
     tags: ["Data Analysis", "Python", "ETL", "Machine Learning", "Feature Engineering"],
