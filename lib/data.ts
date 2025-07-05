@@ -6,7 +6,8 @@ import { FaBriefcase } from "react-icons/fa";
 import watchitImg from "@/public/watchit.png";
 import bankofapisImg from "@/public/bankofapis.png";
 import mentalhealthImg from "@/public/mentalhealth.png";
-import dynamicpriceImg from "@/public/dynamicprice.png"; 
+import dynamicpriceImg from "@/public/dynamicprice.png";
+import hospitalImg from "@/public/HospitalImage.jpeg"; 
 
 export const links = [
   {
@@ -101,7 +102,7 @@ export const projectsData = [
     description:
       "Designed and deployed a data-driven system to streamline hospital operations and improve patient care. Built scalable ETL pipelines to integrate and process real-time data from over 15 hospital departments, including patient flow and bed occupancy metrics. Leveraged Apache Airflow to orchestrate workflows that processed 50,000+ daily records with 99% accuracy. Implemented predictive analytics models to optimize emergency room operations, resulting in a 40% reduction in patient wait times. Developed an automated alerting system for critical resource shortages, ensuring timely interventions. The entire solution was containerized with Docker and maintained a consistent uptime of 99.8%.",
     tags: ["Python", "SQL", "Apache Airflow", "PostgreSQL", "Pandas", "Docker"],
-    imageUrl: dynamicpriceImg,
+    imageUrl: hospitalImg,
   },
   {
     title: "Dynamic Price Optimization for E-commerce",
