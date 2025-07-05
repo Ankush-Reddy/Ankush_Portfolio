@@ -100,7 +100,7 @@ export const projectsData = [
   {
     title: "Hospital Resource Optimization System",
     description:
-      "Designed and deployed a data-driven system to streamline hospital operations and improve patient care. Built scalable ETL pipelines to integrate and process real-time data from over 15 hospital departments, including patient flow and bed occupancy metrics. Leveraged Apache Airflow to orchestrate workflows that processed 50,000+ daily records with 99% accuracy. Implemented predictive analytics models to optimize emergency room operations, resulting in a 40% reduction in patient wait times. Developed an automated alerting system for critical resource shortages, ensuring timely interventions. The entire solution was containerized with Docker and maintained a consistent uptime of 99.8%.",
+      "Built a data-driven system to optimize hospital resource utilization and patient care. Designed ETL pipelines to integrate data from over 15 departments, including patient flow and bed occupancy, using Python and SQL. Orchestrated scalable data workflows with Apache Airflow, processing over 50,000 patient records daily with 99% accuracy. Implemented predictive analytics to forecast emergency room demand and reduce patient wait times by 40%. Developed an automated alert system for detecting resource shortages. Containerized the solution with Docker, achieving 99.8% uptime during deployment.",
     tags: ["Python", "SQL", "Apache Airflow", "PostgreSQL", "Pandas", "Docker"],
     imageUrl: hospitalImg,
   },
